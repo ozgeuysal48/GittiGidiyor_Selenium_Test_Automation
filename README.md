@@ -1,5 +1,5 @@
 # GittiGidiyor_Selenium_Test_Automation
-Java, Maven, Selenium, JUnit, Log4J, OOP, Page Object Pattern kullanılarak yazılmıştır.
+Proje Java, Maven, Selenium, JUnit, Log4J, OOP, Page Object Pattern kullanılarak yazılmıştır.
 
 Expected:
 - www.gittigidiyor.com sitesi açılır.
