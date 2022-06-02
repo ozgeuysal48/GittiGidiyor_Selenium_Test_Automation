@@ -17,8 +17,8 @@ import org.openqa.selenium.support.ui.Select;
 
 public class RunTest extends DriverManager {
 
-   private String userName  = "seleniumtestdeneme1@gmail.com";
-   private String password  = "1234Hello";
+   private String userName  = "x";
+   private String password  = "y";
    private String searchKey = "bilgisayar";
 
    @Before
