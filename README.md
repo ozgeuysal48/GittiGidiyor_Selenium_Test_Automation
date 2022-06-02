@@ -18,9 +18,11 @@ Expected:
 Log4j Output:
 
 2022-06-02 23:12:35 INFO  Log4j:30 - https://www.gittigidiyor.com/ home page opened.
+
 2022-06-02 23:12:38 INFO  Log4j:35 - Advertisement closed and login button clicked.
+
 2022-06-02 23:12:42 INFO  Log4j:40 - Home page opened.
-2022-06-02 23:12:43 INFO  Log4j:44 - User seleniumtestdeneme1@gmail.com logged in. Verified that login is successful.
+2022-06-02 23:12:43 INFO  Log4j:44 - User x logged in. Verified that login is successful.
 2022-06-02 23:12:55 INFO  Log4j:49 - The product bilgisayar searched and moved to next page.
 2022-06-02 23:13:02 INFO  Log4j:53 - A product clicked randomly.
 2022-06-02 23:13:02 INFO  Log4j:58 - Product price and name wrote to txt file.
